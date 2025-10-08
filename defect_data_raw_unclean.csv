@@ -1,0 +1,511 @@
+DefectID,PartID,PartName,ToolID,MachineID,Date,Shift,DefectType,Severity,CostImpactINR,Material,CycleTime_s,Supplier,LotNo,Inspector,ReworkHours
+D10000,P002,Door Trim - RH,T01,M05,2025-08-21,Day,Warp ,Minor,201.0,PP,33.7,SupplierA,L7912,Inspector_A,0.06
+D10001,P001,Door Trim - LH,T02,M04,2025-07-15,Day,Flash,Minor,178.0,PP,28.3,SupplierD,L4611,Inspector_H,0.23
+D10002,P010,Sun Visor Trim,T05,M01,2025-09-10,Swing,Warp ,Minor,195.0,ABS,28.5,SupplierB,L6514,Inspector_B,0.07
+D10003,P002,Door Trim - RH,T07,M02,2025-08-30,Day,Warping,Minor,365.0,ABS,37.1,SupplierD,L9785,Inspector_B,0.37
+D10004,P007,Dashboard Side Trim,T02,M05,2025-07-21,Swing,Flash,Major,1432.0,PC-ABS,36.9,SupplierA,L1750,Inspector_D,0.81
+D10005,P005,Roof Trim,T02,M04,2025-09-21,Night,Knit Line,Minor,199.0,PP,35.8,SupplierB,L7065,Inspector_F,0.23
+D10006,P004,Center Console Trim,T05,M02,2025-09-25,Swing,Sink Mark,Major,1849.0,ABS,31.9,SupplierD,L5422,Inspector_I,1.26
+D10007,P004,Center Console Trim,T06,M01,2025-09-13,Day,Sink Mark,Minor,303.0,ABS,32.7,SupplierB,L6155,Inspector_D,0.19
+D10008,P008,Glovebox Trim,T07,M08,2025-09-13,Day,Sink Mark,Major,1956.0,PC,30.7,SupplierD,L7543,Inspector_F,2.3
+D10009,P004,Center Console Trim,T03,M08,2025-09-26,Day,Warp ,Minor,300.0,PC-ABS,38.6,SupplierD,L2040,Inspector_G,0.1
+D10010,P007,Dashboard Side Trim,T10,M08,2025-07-24,Day,Dimensional Deviation,Major,2897.0,ABS,39.8,SupplierA,L9797,Inspector_E,1.78
+D10011,P006,B-Pillar Trim,T02,M05,2025-07-03,Day,Warp ,Critical,7355.0,PP,32.1,SupplierC,L9201,Inspector_C,5.19
+D10012,P009,Seat Back Trim,T02,M05,2025-07-22,Swing,Short Shot,Minor,225.0,PC,33.9,SupplierB,L9837,Inspector_I,0.32
+D10013,P001,Door Trim - LH,T10,M06,2025-08-22,Day,Sink Mark,Minor,274.0,POM,37.2,SupplierC,L4923,Inspector_A,0.28
+D10014,P004,Center Console Trim,T10,M02,2025-07-02,Day,Knit Line,Minor,235.0,PP,26.0,SupplierB,L3103,Inspector_H,0.25
+D10015,P009,Seat Back Trim,T03,M05,2025-09-26,Day,Flash,Critical,5631.0,POM,30.7,SupplierB,L6107,Inspector_G,6.92
+D10016,P006,B-Pillar Trim,T08,M08,2025-07-30,Day,Warping,Minor,382.0,PC-ABS,31.9,SupplierB,L4608,Inspector_A,0.1
+D10017,P002,Door Trim - RH,T01,M04,2025-08-07,Day,Sink Mark,Minor,271.0,PC,26.6,SupplierC,L8953,Inspector_D,200.0
+D10018,P009,Seat Back Trim,T03,M08,2025-07-02,Day,Warp ,Minor,293.0,ABS,27.0,SupplierD,L6804,Inspector_G,0.11
+D10019,P007,Dashboard Side Trim,T08,M01,2025-09-02,Swing,Dimensional Deviation,Minor,452.0,PC,30.1,SupplierC,L2790,Inspector_D,0.45
+D10020,P004,Center Console Trim,T04,M08,2025-08-29,Day,Sink Mark,Minor,206.0,PP,33.5,SupplierA,L8260,Inspector_I,0.06
+D10021,P002,Door Trim - RH,T01,M01,2025-07-21,Night,Dimensional Deviation,Major,2793.0,ABS,29.0,SupplierD,L8886,Inspector_D,3.12
+D10022,P007,Dashboard Side Trim,T01,M03,2025-08-02,Day,Warp ,Minor,305.0,PP,23.3,SupplierD,L5673,Inspector_G,0.38
+D10023,P009,Seat Back Trim,T08,M03,2025-09-14,Day,Sink Mark,Minor,328.0,PP,23.6,SupplierA,L6138,Inspector_A,0.49
+D10024,P001,Door Trim - LH,T10,M08,2025-08-27,Day,Surface Scratch,Minor,200.0,POM,33.7,SupplierA,L4044,Inspector_B,0.24
+D10025,P010,Sun Visor Trim,T02,M04,2025-07-22,Day,Dimensional Deviation,Minor,408.0,PC-ABS,30.7,SupplierA,L2343,Inspector_G,0.31
+D10026,P010,Sun Visor Trim,T10,M06,2025-09-27,Night,Sink Mark,Major,1935.0,ABS,31.9,SupplierD,L3144,Inspector_E,0.42
+D10027,P008,Glovebox Trim,T06,M02,2025-08-18,Day,Flash,Minor,194.0,ABS,26.0,SupplierB,L9288,Inspector_E,0.05
+D10028,P003,Instrument Panel Trim,T06,M02,2025-08-28,Night,Warping,Minor,261.0,PP,33.9,SupplierC,L9666,Inspector_A,0.31
+D10029,P009,Seat Back Trim,T05,M02,2025-08-11,Night,Sink Mark,Minor,276.0,ABS,27.0,SupplierB,L5462,Inspector_E,0.4
+D10030,P010,Sun Visor Trim,T04,M06,2025-08-29,Day,Warp ,Minor,184.0,PC,36.1,SupplierA,L2512,Inspector_G,0.09
+D10031,P005,Roof Trim,T01,M01,2025-09-18,Day,Sink Mark,Critical,8267.0,ABS,29.6,SupplierD,L8007,Inspector_I,1.78
+D10032,P001,Door Trim - LH,T02,M02,2025-07-15,Night,Burn Mark,Minor,442.0,ABS,33.3,SupplierC,L3426,Inspector_G,0.13
+D10033,P003,Instrument Panel Trim,T01,M05,2025-08-31,Day,Warp ,Critical,10190.0,ABS,32.1,SupplierC,L4441,Inspector_D,14.88
+D10034,P002,Door Trim - RH,T06,M07,2025-08-31,Night,Burn Mark,Major,2138.0,ABS,40.7,SupplierB,L3900,Inspector_G,1.69
+D10035,P001,Door Trim - LH,T03,M06,2025-08-16,Swing,Knit Line,Major,1553.0,PP,37.8,SupplierB,L5371,Inspector_C,1.49
+D10036,P002,Door Trim - RH,T07,M01,2025-08-31,Night,Warping,Major,2413.0,PC,45.1,SupplierC,L4728,Inspector_D,1.35
+D10037,P001,Door Trim - LH,T04,M07,2025-08-20,Day,Surface Scratch,Critical,3651.0,ABS,27.2,SupplierD,L9785,Inspector_F,2.93
+D10038,P001,Door Trim - LH,T02,M05,2025-08-24,Day,Dimensional Deviation,Minor,364.0,ABS,27.4,SupplierD,L6663,Inspector_F,0.53
+D10039,P007,Dashboard Side Trim,T10,M02,2025-09-02,Day,Warp ,Minor,389.0,PP,32.9,SupplierA,L9518,Inspector_I,0.43
+D10040,P004,Center Console Trim,T06,M07,2025-07-03,Day,Flash,Minor,201.0,ABS,37.7,SupplierA,L5920,Inspector_I,0.22
+D10041,P005,Roof Trim,T07,M06,2025-08-20,Day,Warping,Minor,269.0,PC,28.5,SupplierD,L3851,Inspector_J,0.37
+D10042,P010,Sun Visor Trim,T05,M07,2025-07-07,Day,Sink Mark,Minor,310.0,PC,24.1,SupplierC,L8618,Inspector_H,0.44
+D10043,P008,Glovebox Trim,T04,M08,2025-07-21,Swing,Dimensional Deviation,Major,2850.0,PC-ABS,43.0,SupplierC,L9445,Inspector_J,0.74
+D10044,P006,B-Pillar Trim,T02,M04,2025-09-11,Swing,Warping,Minor,244.0,ABS,39.1,SupplierB,L8784,Inspector_J,0.36
+D10045,P002,Door Trim - RH,T08,M07,2025-08-08,Night,Short Shot,Major,1495.0,PC,29.2,SupplierD,L4997,Inspector_C,1.45
+D10046,P001,Door Trim - LH,T02,M07,2025-07-18,Day,Warp ,Major,987.0,PC,31.3,SupplierB,L2988,Inspector_H,0.73
+D10047,P003,Instrument Panel Trim,T08,M06,2025-07-04,Night,Surface Scratch,Minor,154.0,PP,39.4,SupplierD,L9976,Inspector_H,0.04
+D10048,P003,Instrument Panel Trim,T08,M08,2025-09-27,Day,Warping,Minor,395.0,PP,32.0,SupplierD,L4919,Inspector_E,0.47
+D10049,P008,Glovebox Trim,T02,M05,2025-08-29,Day,Warping,Major,2460.0,ABS,32.3,SupplierB,L4788,Inspector_G,3.21
+D10050,P003,Instrument Panel Trim,T04,M02,2025-07-14,Day,Warping,Minor,284.0,ABS,25.6,SupplierD,L7381,Inspector_J,0.41
+D10051,P001,Door Trim - LH,T10,M07,2025-07-09,Day,Dimensional Deviation,Minor,418.0,PC,31.1,SupplierD,L9818,Inspector_I,0.21
+D10052,P010,Sun Visor Trim,T04,M08,2025-09-28,Day,Knit Line,Minor,264.0,ABS,22.8,SupplierD,L3704,Inspector_H,0.09
+D10053,P003,Instrument Panel Trim,T10,M01,2025-08-22,Night,Flash,Major,1299.0,ABS,39.7,SupplierD,L3223,Inspector_H,1.14
+D10054,P003,Instrument Panel Trim,T01,M05,2025-07-02,Day,Sink Mark,Minor,303.0,PP,39.1,SupplierD,L5558,Inspector_G,0.28
+D10055,P005,Roof Trim,T02,M08,2025-09-22,Day,Warp ,Critical,7955.0,ABS,32.4,SupplierA,L1659,Inspector_A,10.66
+D10056,P004,Center Console Trim,T04,M01,2025-08-29,Swing,Warping,Minor,312.0,ABS,35.9,SupplierB,L8619,Inspector_E,0.35
+D10057,P006,B-Pillar Trim,T03,M02,2025-09-09,Swing,Sink Mark,Minor,222.0,PC-ABS,40.2,SupplierC,L7149,Inspector_G,0.08
+D10058,P004,Center Console Trim,T02,M04,2025-08-13,Day,Surface Scratch,Major,776.0,PC-ABS,38.4,SupplierA,L1672,Inspector_F,0.55
+D10059,P009,Seat Back Trim,T07,M06,2025-07-08,Day,Flash,Minor,191.0,PC,21.4,SupplierD,L2729,Inspector_G,0.26
+D10060,P006,B-Pillar Trim,T08,M03,2025-08-16,Day,Burn Mark,Critical,8071.0,ABS,41.0,SupplierD,L8616,Inspector_G,5.77
+D10061,P010,Sun Visor Trim,T05,M06,2025-08-04,Night,Surface Scratch,Minor,187.0,PP,32.4,SupplierB,L8613,Inspector_J,0.25
+D10062,P010,Sun Visor Trim,T07,M06,2025-09-16,Day,Surface Scratch,Minor,219.0,ABS,21.8,SupplierC,L6576,Inspector_E,0.17
+D10063,P010,Sun Visor Trim,T05,M01,2025-09-19,Day,Warp ,Minor,333.0,PC,31.7,SupplierB,L8800,Inspector_H,0.28
+D10064,P008,Glovebox Trim,T01,M02,2025-08-05,Day,Knit Line,Minor,219.0,PC-ABS,24.2,SupplierC,L8753,Inspector_I,0.07
+D10065,P009,Seat Back Trim,T06,M07,2025-08-19,Night,Short Shot,Minor,245.0,PC,36.0,SupplierC,L5118,Inspector_D,0.09
+D10066,P002,Door Trim - RH,T04,M06,2025-07-04,Day,Short Shot,Major,1497.0,ABS,34.2,SupplierB,L8933,Inspector_E,0.65
+D10067,P010,Sun Visor Trim,T09,M05,2025-07-02,Night,Surface Scratch,Minor,161.0,PC,26.4,SupplierC,L1231,Inspector_I,0.22
+D10068,P003,Instrument Panel Trim,T05,M01,2025-07-06,Night,Warp ,Major,,,26.1,SupplierD,L2680,Inspector_A,0.82
+D10069,P010,Sun Visor Trim,T05,M08,2025-08-23,Day,Warp ,Critical,6183.0,ABS,35.0,SupplierD,L2869,Inspector_B,2.59
+D10070,P007,Dashboard Side Trim,T08,M02,2025-07-04,Day,Warp ,Minor,309.0,PP,31.4,SupplierC,L2395,Inspector_D,0.14
+D10071,P002,Door Trim - RH,T09,M07,2025-08-23,Swing,Surface Scratch,Minor,162.0,PC,25.8,SupplierD,L8253,Inspector_E,0.14
+D10072,P010,Sun Visor Trim,T07,M05,2025-09-01,Day,Warp ,Critical,7285.0,ABS,27.8,SupplierB,L4457,Inspector_E,9.73
+D10073,P002,Door Trim - RH,T03,M04,2025-07-18,Day,Warp ,Minor,,,33.3,SupplierD,L5771,Inspector_A,0.09
+D10074,P004,Center Console Trim,T05,M05,2025-09-28,Swing,Knit Line,Major,1275.0,POM,41.7,SupplierB,L7965,Inspector_B,0.56
+D10075,P009,Seat Back Trim,T04,M03,2025-08-13,Night,Surface Scratch,Minor,148.0,ABS,36.5,SupplierC,L5728,Inspector_H,0.1
+D10076,P002,Door Trim - RH,T08,M05,2025-08-03,Swing,Warp ,Minor,392.0,PC,22.9,SupplierA,L1653,Inspector_G,0.31
+D10077,P006,B-Pillar Trim,T10,M05,2025-09-12,Day,Warp ,Major,2247.0,PP,40.2,SupplierA,L5415,Inspector_J,0.56
+D10078,P001,Door Trim - LH,T03,M08,2025-08-31,Day,Warp ,Minor,209.0,POM,41.5,SupplierD,L9056,Inspector_B,0.18
+D10079,P008,Glovebox Trim,T06,M07,2025-07-14,Day,Warp ,Major,2148.0,ABS,33.9,SupplierD,L5722,Inspector_G,0.73
+D10080,P009,Seat Back Trim,T01,M08,2025-08-17,Day,Warping,Minor,320.0,PP,22.4,SupplierA,L9889,Inspector_H,0.18
+D10081,P007,Dashboard Side Trim,T01,M04,2025-07-15,Day,Flash,Minor,184.0,PC,33.2,SupplierA,L4335,Inspector_E,0.04
+D10082,P009,Seat Back Trim,T03,M05,2025-09-10,Day,Warp ,Minor,317.0,POM,34.1,SupplierB,L3594,Inspector_E,0.11
+D10083,P009,Seat Back Trim,T01,M07,2025-09-16,Day,Dimensional Deviation,Major,2882.0,PC,25.5,SupplierA,L3522,Inspector_H,2.8
+D10084,P005,Roof Trim,T09,M05,2025-09-25,Day,Warp ,Minor,265.0,PC,32.0,SupplierB,L7284,Inspector_D,0.08
+D10085,P010,Sun Visor Trim,T09,M03,2025-08-31,Night,Warping,Major,2020.0,PC,40.9,SupplierC,L1042,Inspector_E,1.95
+D10086,P005,Roof Trim,T10,M08,2025-08-09,Night,Knit Line,Minor,274.0,ABS,25.8,SupplierD,L8460,Inspector_F,0.16
+D10087,P004,Center Console Trim,T04,M07,2025-09-23,Day,Surface Scratch,Minor,162.0,PP,30.9,SupplierD,L7325,Inspector_C,0.17
+D10088,P008,Glovebox Trim,T01,M03,2025-09-18,Day,Flash,Major,1233.0,PP,23.6,SupplierD,L2633,Inspector_I,0.41
+D10089,P008,Glovebox Trim,T01,M03,2025-09-20,Day,Flash,Minor,160.0,PC,35.4,SupplierC,L6546,Inspector_J,0.08
+D10090,P007,Dashboard Side Trim,T02,M06,2025-08-22,Night,Warp ,Minor,143.0,ABS,28.4,SupplierD,L9864,Inspector_A,0.06
+D10091,P010,Sun Visor Trim,T02,M04,2025-07-24,Swing,Dimensional Deviation,Critical,12042.0,PP,26.8,SupplierD,L2612,Inspector_B,3.66
+D10092,P008,Glovebox Trim,T03,M05,2025-07-26,Night,Sink Mark,Major,1605.0,ABS,33.6,SupplierC,L8056,Inspector_C,0.55
+D10093,P004,Center Console Trim,T09,M07,2025-09-27,Day,Warp ,Minor,166.0,ABS,31.7,SupplierD,L4945,Inspector_H,0.24
+D10094,P010,Sun Visor Trim,T03,M04,2025-08-29,Day,Warping,Minor,395.0,ABS,28.5,SupplierD,L5712,Inspector_I,0.17
+D10095,P003,Instrument Panel Trim,T02,M08,2025-08-10,Night,Dimensional Deviation,Minor,432.0,POM,42.5,SupplierC,L8484,Inspector_E,0.61
+D10096,P004,Center Console Trim,T07,M08,2025-07-29,Day,Knit Line,Minor,249.0,ABS,22.0,SupplierC,L1359,Inspector_G,0.3
+D10097,P005,Roof Trim,T01,M01,2025-07-15,Night,Burn Mark,Major,1751.0,POM,41.3,SupplierB,L6772,Inspector_D,1.09
+D10098,P004,Center Console Trim,T10,M05,2025-08-14,Swing,Burn Mark,Major,2026.0,PP,22.2,SupplierA,L1645,Inspector_E,0.71
+D10099,P008,Glovebox Trim,T01,M06,2025-09-03,Swing,Sink Mark,Minor,279.0,PP,32.3,SupplierB,L4289,Inspector_C,0.16
+D10100,P009,Seat Back Trim,T06,M05,2025-09-27,Swing,Warping,Major,2067.0,PC,31.6,SupplierC,L6549,Inspector_B,1.84
+D10101,P008,Glovebox Trim,T02,M03,2025-09-09,Swing,Warp ,Major,1495.0,PC-ABS,24.7,SupplierD,L6992,Inspector_B,0.95
+D10102,P007,Dashboard Side Trim,T01,M05,2025-07-09,Day,Knit Line,Major,1162.0,PC-ABS,38.0,SupplierD,L7086,Inspector_B,0.62
+D10103,P004,Center Console Trim,T08,M01,2025-09-26,Swing,Dimensional Deviation,Minor,435.0,PC-ABS,28.5,SupplierA,L8606,Inspector_E,0.52
+D10104,P007,Dashboard Side Trim,T02,M03,2025-07-01,Day,Warp ,Critical,,,17.2,SupplierB,L9807,Inspector_C,4.54
+D10105,P007,Dashboard Side Trim,T08,M06,2025-07-08,Swing,Burn Mark,Critical,10861.0,PC,27.2,SupplierB,L7797,Inspector_B,13.9
+D10106,P008,Glovebox Trim,T10,M07,2025-09-26,Night,Warping,Major,2482.0,ABS,34.2,SupplierD,L4868,Inspector_F,3.52
+D10107,P002,Door Trim - RH,T06,M06,2025-09-01,Day,Warping,Critical,6815.0,POM,34.4,SupplierD,L2501,Inspector_D,1.95
+D10108,P010,Sun Visor Trim,T01,M01,2025-07-11,Swing,Warping,Minor,373.0,PC-ABS,39.0,SupplierA,L4394,Inspector_J,0.14
+D10109,P004,Center Console Trim,T04,M06,2025-09-19,Swing,Surface Scratch,Minor,204.0,ABS,33.5,SupplierB,L3129,Inspector_I,0.09
+D10110,P005,Roof Trim,T03,M02,2025-07-08,Swing,Sink Mark,Minor,215.0,PP,34.4,SupplierB,L6304,Inspector_A,0.23
+D10111,P003,Instrument Panel Trim,T05,M01,2025-08-04,Day,Knit Line,Minor,245.0,ABS,29.5,SupplierD,L6931,Inspector_I,0.16
+D10112,P010,Sun Visor Trim,T02,M08,2025-08-04,Day,Dimensional Deviation,Minor,477.0,PP,39.2,SupplierC,L8504,Inspector_A,0.37
+D10113,P001,Door Trim - LH,T08,M07,2025-08-02,Day,Sink Mark,Major,1477.0,PC,29.6,SupplierA,L6277,Inspector_J,1.18
+D10114,P003,Instrument Panel Trim,T02,M03,2025-07-05,Day,Flash,Minor,176.0,ABS,32.1,SupplierC,L8433,Inspector_I,0.09
+D10115,P010,Sun Visor Trim,T07,M02,2025-08-10,Swing,Sink Mark,Major,1929.0,PP,42.1,SupplierB,L8046,Inspector_H,1.35
+D10116,P004,Center Console Trim,T07,M06,2025-07-28,Swing,Knit Line,Major,1486.0,ABS,33.4,SupplierC,L5176,Inspector_F,0.52
+D10117,P003,Instrument Panel Trim,T08,M02,2025-07-07,Day,Warp ,Minor,327.0,PP,36.6,SupplierC,L3131,Inspector_I,0.33
+D10118,P001,Door Trim - LH,T10,M06,2025-09-11,Swing,Knit Line,Major,1321.0,POM,40.0,SupplierD,L1842,Inspector_E,1.33
+D10119,P010,Sun Visor Trim,T05,M06,2025-09-10,Day,Short Shot,Minor,313.0,PC,29.5,SupplierA,L6736,Inspector_I,0.43
+D10120,P006,B-Pillar Trim,T02,M05,2025-07-12,Day,Surface Scratch,Major,1222.0,POM,35.2,SupplierA,L5381,Inspector_A,0.64
+D10121,P003,Instrument Panel Trim,T05,M05,2025-08-03,Night,Warping,Minor,373.0,ABS,26.9,SupplierD,L2140,Inspector_C,0.09
+D10122,P001,Door Trim - LH,T02,M04,2025-08-02,Day,Knit Line,Minor,251.0,ABS,34.9,SupplierC,L2391,Inspector_A,0.16
+D10123,P003,Instrument Panel Trim,T03,M01,2025-08-17,Swing,Warping,Major,2326.0,PC,34.0,SupplierD,L7785,Inspector_E,0.8
+D10124,P004,Center Console Trim,T09,M02,2025-07-23,Day,Warp ,Major,,,30.4,SupplierC,L1744,Inspector_D,2.33
+D10125,P007,Dashboard Side Trim,T10,M01,2025-08-31,Day,Warping,Minor,266.0,ABS,26.1,SupplierC,L5742,Inspector_F,0.13
+D10126,P002,Door Trim - RH,T01,M08,2025-09-26,Swing,Sink Mark,Minor,296.0,PP,37.2,SupplierC,L2180,Inspector_G,0.33
+D10127,P001,Door Trim - LH,T07,M01,2025-08-06,Day,Sink Mark,Minor,270.0,PC,40.1,SupplierD,L7843,Inspector_E,0.14
+D10128,P002,Door Trim - RH,T07,M01,2025-08-13,Night,Sink Mark,Critical,6044.0,PC,21.3,SupplierC,L2443,Inspector_G,4.84
+D10129,P002,Door Trim - RH,T04,M07,2025-09-24,Day,Short Shot,Minor,383.0,ABS,41.0,SupplierC,L4630,Inspector_F,0.15
+D10130,P003,Instrument Panel Trim,T02,M02,2025-08-04,Day,Sink Mark,Major,1658.0,PC,46.7,SupplierB,L4871,Inspector_B,0.37
+D10131,P003,Instrument Panel Trim,T05,M04,2025-09-03,Day,Warp ,Major,1905.0,ABS,32.8,SupplierD,L8601,Inspector_J,2.69
+D10132,P010,Sun Visor Trim,T08,M06,2025-08-16,Night,Warp ,Minor,205.0,ABS,34.9,SupplierD,L5961,Inspector_E,0.23
+D10133,P010,Sun Visor Trim,T01,M06,2025-09-16,Day,Warping,Minor,267.0,ABS,33.3,SupplierC,L2257,Inspector_B,0.25
+D10134,P010,Sun Visor Trim,T10,M07,2025-07-03,Day,Short Shot,Major,1955.0,PP,41.6,SupplierD,L4084,Inspector_F,2.77
+D10135,P010,Sun Visor Trim,T08,M03,2025-07-01,Night,Knit Line,Major,1789.0,PP,28.9,SupplierA,L9266,Inspector_C,1.41
+D10136,P001,Door Trim - LH,T04,M08,2025-07-05,Night,Short Shot,Minor,243.0,PC,32.3,SupplierC,L7347,Inspector_G,0.24
+D10137,P006,B-Pillar Trim,T10,M01,2025-09-28,Swing,Flash,Minor,187.0,ABS,38.6,SupplierD,L5655,Inspector_E,0.05
+D10138,P010,Sun Visor Trim,T03,M06,2025-07-14,Day,Flash,Major,1081.0,ABS,25.9,SupplierD,L3112,Inspector_J,0.97
+D10139,P002,Door Trim - RH,T05,M07,2025-07-27,Swing,Warping,Minor,405.0,PP,22.1,SupplierA,L7937,Inspector_I,0.26
+D10140,P006,B-Pillar Trim,T01,M06,2025-07-09,Day,Dimensional Deviation,Minor,362.0,PP,30.0,SupplierB,L4711,Inspector_C,0.18
+D10141,P003,Instrument Panel Trim,T02,M05,2025-09-17,Swing,Sink Mark,Major,1542.0,PP,42.0,SupplierA,L6517,Inspector_J,0.59
+D10142,P003,Instrument Panel Trim,T10,M07,2025-07-15,Day,Sink Mark,Major,1304.0,PC-ABS,15.8,SupplierB,L8170,Inspector_A,1.81
+D10143,P007,Dashboard Side Trim,T06,M04,2025-09-28,Night,Flash,Major,1098.0,PP,31.7,SupplierB,L9749,Inspector_D,1.05
+D10144,P005,Roof Trim,T08,M04,2025-08-11,Day,Dimensional Deviation,Critical,10614.0,PC,30.4,SupplierC,L7256,Inspector_I,3.3
+D10145,P009,Seat Back Trim,T07,M03,2025-09-15,Swing,Surface Scratch,Minor,223.0,ABS,25.4,SupplierD,L7081,Inspector_I,0.19
+D10146,P002,Door Trim - RH,T09,M02,2025-08-20,Day,Surface Scratch,Minor,185.0,POM,38.1,SupplierB,L8167,Inspector_B,0.09
+D10147,P004,Center Console Trim,T08,M06,2025-09-01,Night,Knit Line,Minor,294.0,PC,31.9,SupplierD,L2337,Inspector_F,0.14
+D10148,P004,Center Console Trim,T01,M06,2025-08-21,Night,Warp ,Minor,146.0,PP,31.8,SupplierB,L1627,Inspector_E,0.14
+D10149,P008,Glovebox Trim,T03,M08,2025-07-04,Day,Sink Mark,Minor,201.0,ABS,28.7,SupplierB,L9991,Inspector_J,0.24
+D10150,P009,Seat Back Trim,T07,M02,2025-07-23,Swing,Warping,Minor,321.0,ABS,16.1,SupplierD,L2029,Inspector_B,0.23
+D10151,P008,Glovebox Trim,T10,M01,2025-07-15,Swing,Short Shot,Major,1908.0,ABS,38.5,SupplierA,L6780,Inspector_D,0.77
+D10152,P010,Sun Visor Trim,T07,M03,2025-08-12,Swing,Sink Mark,Critical,5454.0,ABS,23.6,SupplierA,L7397,Inspector_H,5.66
+D10153,P001,Door Trim - LH,T07,M06,2025-07-29,Day,Sink Mark,Major,1505.0,ABS,27.3,SupplierA,L6447,Inspector_C,0.35
+D10154,P001,Door Trim - LH,T06,M06,2025-08-05,Swing,Warp ,Major,1286.0,PC,37.6,SupplierD,L3986,Inspector_C,0.3
+D10155,P002,Door Trim - RH,T08,M01,2025-07-13,Day,Warp ,Minor,,,39.6,SupplierC,L9444,Inspector_G,0.11
+D10156,P009,Seat Back Trim,T08,M05,2025-08-01,Day,Flash,Minor,216.0,PP,28.9,SupplierA,L6438,Inspector_E,0.23
+D10157,P002,Door Trim - RH,T06,M07,2025-09-09,Night,Burn Mark,Major,1810.0,PC,34.9,SupplierB,L9129,Inspector_H,0.6
+D10158,P006,B-Pillar Trim,T09,M05,2025-08-28,Swing,Burn Mark,Minor,302.0,PC-ABS,36.3,SupplierB,L9937,Inspector_E,0.39
+D10159,P006,B-Pillar Trim,T02,M02,2025-09-24,Day,Warping,Minor,311.0,PP,34.7,SupplierB,L8272,Inspector_F,0.33
+D10160,P008,Glovebox Trim,T01,M06,2025-07-28,Swing,Knit Line,Minor,203.0,PP,35.6,SupplierA,L2229,Inspector_G,0.04
+D10161,P006,B-Pillar Trim,T09,M03,2025-09-04,Night,Sink Mark,Minor,204.0,PP,30.1,SupplierA,L3068,Inspector_B,0.1
+D10162,P004,Center Console Trim,T06,M06,2025-08-11,Day,Short Shot,Minor,228.0,PC-ABS,34.0,SupplierC,L7095,Inspector_H,0.17
+D10163,P002,Door Trim - RH,T10,M03,2025-08-14,Day,Knit Line,Minor,293.0,ABS,24.5,SupplierA,L1424,Inspector_C,0.37
+D10164,P008,Glovebox Trim,T09,M07,2025-08-31,Night,Sink Mark,Major,1447.0,PP,27.8,SupplierB,L5678,Inspector_H,1.4
+D10165,P004,Center Console Trim,T02,M03,2025-08-26,Night,Knit Line,Major,1268.0,PC,23.5,SupplierA,L6236,Inspector_F,1.28
+D10166,P002,Door Trim - RH,T09,M05,2025-07-06,Night,Surface Scratch,Major,1003.0,POM,25.5,SupplierB,L6922,Inspector_I,0.58
+D10167,P004,Center Console Trim,T02,M04,2025-07-28,Swing,Warp ,Minor,410.0,PC,42.2,SupplierC,L8657,Inspector_I,0.49
+D10168,P003,Instrument Panel Trim,T10,M02,2025-07-28,Day,Knit Line,Major,1166.0,PC,31.8,SupplierD,L7708,Inspector_J,1.59
+D10169,P002,Door Trim - RH,T03,M06,2025-08-13,Swing,Knit Line,Major,1689.0,ABS,38.6,SupplierB,L3114,Inspector_G,1.27
+D10170,P009,Seat Back Trim,T01,M02,2025-09-22,Day,Warping,Minor,244.0,POM,39.8,SupplierB,L6669,Inspector_I,0.25
+D10171,P005,Roof Trim,T02,M05,2025-07-30,Day,Dimensional Deviation,Minor,343.0,PC-ABS,21.7,SupplierA,L9234,Inspector_C,0.13
+D10172,P010,Sun Visor Trim,T10,M03,2025-08-31,Day,Warp ,Major,1405.0,ABS,32.1,SupplierA,L1464,Inspector_B,0.59
+D10173,P001,Door Trim - LH,T10,M05,2025-09-13,Swing,Warp ,Minor,154.0,PC-ABS,34.1,SupplierD,L9938,Inspector_E,0.03
+D10174,P005,Roof Trim,T08,M04,2025-09-27,Swing,Burn Mark,Minor,431.0,ABS,33.2,SupplierA,L3589,Inspector_H,0.24
+D10175,P007,Dashboard Side Trim,T08,M08,2025-08-31,Day,Flash,Minor,203.0,PP,26.1,SupplierC,L7532,Inspector_C,0.21
+D10176,P006,B-Pillar Trim,T09,M02,2025-07-01,Day,Warp ,Minor,285.0,ABS,33.5,SupplierA,L1829,Inspector_E,0.28
+D10177,P007,Dashboard Side Trim,T10,M07,2025-07-27,Day,Surface Scratch,Minor,191.0,ABS,37.9,SupplierC,L4110,Inspector_C,0.08
+D10178,P008,Glovebox Trim,T09,M08,2025-08-31,Day,Warping,Minor,404.0,POM,27.0,SupplierD,L4944,Inspector_D,0.35
+D10179,P010,Sun Visor Trim,T06,M01,2025-09-15,Day,Short Shot,Major,1391.0,PC-ABS,24.3,SupplierD,L5681,Inspector_I,0.58
+D10180,P001,Door Trim - LH,T02,M07,2025-07-03,Day,Warp ,Minor,372.0,PC,33.1,SupplierA,L7563,Inspector_A,0.19
+D10181,P010,Sun Visor Trim,T09,M04,2025-09-08,Day,Warp ,Minor,310.0,PC,27.5,SupplierC,L2946,Inspector_C,0.18
+D10182,P002,Door Trim - RH,T07,M06,2025-09-10,Swing,Warp ,Critical,7600.0,PP,26.1,SupplierB,L9341,Inspector_G,7.12
+D10183,P009,Seat Back Trim,T01,M01,2025-07-27,Day,Burn Mark,Major,2084.0,PC,38.3,SupplierB,L9446,Inspector_C,2.21
+D10184,P006,B-Pillar Trim,T10,M06,2025-07-09,Day,Dimensional Deviation,Major,2942.0,ABS,26.8,SupplierC,L9311,Inspector_I,0.71
+D10185,P009,Seat Back Trim,T08,M05,2025-08-31,Day,Sink Mark,Minor,229.0,ABS,36.2,SupplierD,L6040,Inspector_A,0.22
+D10186,P010,Sun Visor Trim,T08,M05,2025-08-06,Night,Surface Scratch,Major,797.0,PC-ABS,47.4,SupplierA,L8871,Inspector_C,0.51
+D10187,P009,Seat Back Trim,T10,M07,2025-08-20,Day,Burn Mark,Minor,404.0,POM,37.4,SupplierA,L4125,Inspector_A,0.14
+D10188,P008,Glovebox Trim,T06,M07,2025-08-13,Day,Burn Mark,Minor,270.0,PP,31.8,SupplierD,L2020,Inspector_C,0.3
+D10189,P009,Seat Back Trim,T04,M06,2025-07-24,Night,Knit Line,Minor,233.0,POM,48.6,SupplierD,L9734,Inspector_F,0.12
+D10190,P009,Seat Back Trim,T06,M05,2025-09-17,Swing,Sink Mark,Minor,309.0,PC-ABS,35.8,SupplierB,L5876,Inspector_E,0.17
+D10191,P004,Center Console Trim,T08,M06,2025-08-28,Day,Short Shot,Critical,8078.0,PP,37.8,SupplierC,L2996,Inspector_J,5.41
+D10192,P009,Seat Back Trim,T07,M07,2025-08-01,Swing,Dimensional Deviation,Major,1846.0,ABS,31.6,SupplierC,L2294,Inspector_F,0.81
+D10193,P008,Glovebox Trim,T05,M08,2025-09-26,Day,Surface Scratch,Minor,180.0,PC-ABS,35.7,SupplierC,L3249,Inspector_B,0.24
+D10194,P010,Sun Visor Trim,T10,M04,2025-08-21,Day,Flash,Minor,223.0,PC-ABS,35.4,SupplierA,L2641,Inspector_G,0.25
+D10195,P006,B-Pillar Trim,T08,M02,2025-08-31,Swing,Warp ,Critical,7857.0,POM,44.5,SupplierB,L7666,Inspector_H,4.12
+D10196,P008,Glovebox Trim,T04,M05,2025-08-27,Day,Flash,Major,1181.0,ABS,34.6,SupplierB,L9767,Inspector_A,0.51
+D10197,P003,Instrument Panel Trim,T07,M03,2025-08-21,Night,Sink Mark,Major,1642.0,PP,33.2,SupplierB,L5742,Inspector_A,2.28
+D10198,P001,Door Trim - LH,T05,M02,2025-07-12,Night,Warping,Minor,246.0,PC-ABS,25.5,SupplierD,L3198,Inspector_I,0.34
+D10199,P008,Glovebox Trim,T05,M04,2025-08-08,Swing,Warping,Major,2488.0,PC-ABS,38.3,SupplierB,L1230,Inspector_F,3.55
+D10200,P005,Roof Trim,T10,M04,2025-07-02,Day,Surface Scratch,Major,1041.0,PP,32.2,SupplierC,L2421,Inspector_G,0.64
+D10201,P002,Door Trim - RH,T03,M03,2025-07-03,Day,Dimensional Deviation,Minor,467.0,PC,32.2,SupplierD,L5374,Inspector_F,0.12
+D10202,P005,Roof Trim,T10,M01,2025-08-25,Day,Warping,Minor,347.0,PC-ABS,29.4,SupplierD,L6026,Inspector_C,0.1
+D10203,P007,Dashboard Side Trim,T09,M05,2025-09-19,Swing,Flash,Critical,5479.0,PC,30.1,SupplierB,L4590,Inspector_C,3.52
+D10204,P008,Glovebox Trim,T03,M08,2025-08-28,Swing,Flash,Minor,222.0,PC,30.9,SupplierD,L9806,Inspector_D,0.2
+D10205,P004,Center Console Trim,T10,M02,2025-07-02,Day,Short Shot,Minor,356.0,POM,35.4,SupplierA,L2011,Inspector_I,0.22
+D10206,P009,Seat Back Trim,T04,M03,2025-07-02,Day,Surface Scratch,Minor,188.0,PC-ABS,33.6,SupplierD,L2489,Inspector_I,0.09
+D10207,P008,Glovebox Trim,T01,M08,2025-08-23,Day,Knit Line,Minor,179.0,PC-ABS,37.3,SupplierC,L1356,Inspector_G,0.24
+D10208,P005,Roof Trim,T01,M04,2025-09-25,Day,Sink Mark,Minor,195.0,ABS,32.5,SupplierA,L2130,Inspector_H,0.28
+D10209,P001,Door Trim - LH,T05,M07,2025-07-01,Day,Warp ,Minor,307.0,PP,38.4,SupplierD,L7135,Inspector_G,0.46
+D10210,P008,Glovebox Trim,T07,M07,2025-07-19,Day,Warp ,Major,2182.0,ABS,28.9,SupplierC,L2943,Inspector_C,1.8
+D10211,P009,Seat Back Trim,T07,M03,2025-07-02,Swing,Warping,Minor,352.0,ABS,40.5,SupplierC,L8585,Inspector_I,0.47
+D10212,P007,Dashboard Side Trim,T09,M07,2025-08-22,Swing,Warping,Minor,417.0,ABS,29.3,SupplierA,L1527,Inspector_G,0.31
+D10213,P010,Sun Visor Trim,T01,M04,2025-08-13,Day,Sink Mark,Minor,298.0,PC-ABS,40.7,SupplierA,L5009,Inspector_A,0.15
+D10214,P007,Dashboard Side Trim,T08,M04,2025-09-28,Day,Surface Scratch,Major,831.0,ABS,23.9,SupplierC,L4836,Inspector_J,0.49
+D10215,P006,B-Pillar Trim,T10,M06,2025-08-01,Day,Surface Scratch,Critical,3760.0,PC,26.5,SupplierD,L5923,Inspector_E,0.96
+D10216,P001,Door Trim - LH,T09,M03,2025-09-08,Swing,Knit Line,Minor,178.0,POM,37.8,SupplierD,L9592,Inspector_F,0.12
+D10217,P007,Dashboard Side Trim,T07,M03,2025-08-01,Day,Sink Mark,Minor,289.0,ABS,33.4,SupplierB,L5927,Inspector_C,0.14
+D10218,P008,Glovebox Trim,T01,M07,2025-09-06,Night,Warp ,Minor,383.0,ABS,37.9,SupplierB,L6411,Inspector_B,0.55
+D10219,P008,Glovebox Trim,T06,M02,2025-08-24,Day,Surface Scratch,Minor,172.0,PC,30.7,SupplierA,L2192,Inspector_D,0.17
+D10220,P010,Sun Visor Trim,T09,M04,2025-09-13,Day,Warp ,Minor,144.0,POM,39.0,SupplierA,L4470,Inspector_D,0.14
+D10221,P002,Door Trim - RH,T08,M04,2025-08-25,Swing,Burn Mark,Minor,354.0,ABS,35.0,SupplierC,L5637,Inspector_G,0.18
+D10222,P008,Glovebox Trim,T09,M06,2025-07-17,Day,Warping,Major,1630.0,PC,28.3,SupplierD,L6246,Inspector_D,1.98
+D10223,P006,B-Pillar Trim,T06,M07,2025-08-07,Day,Surface Scratch,Major,969.0,ABS,28.7,SupplierD,L5836,Inspector_C,0.27
+D10224,P004,Center Console Trim,T06,M04,2025-07-24,Day,Surface Scratch,Minor,221.0,PC-ABS,40.5,SupplierC,L5216,Inspector_H,0.24
+D10225,P008,Glovebox Trim,T08,M03,2025-09-07,Swing,Warp ,Minor,267.0,PC,28.6,SupplierB,L9882,Inspector_A,0.34
+D10226,P009,Seat Back Trim,T01,M02,2025-09-08,Night,Flash,Major,1009.0,PC,33.2,SupplierB,L2113,Inspector_C,0.98
+D10227,P001,Door Trim - LH,T04,M08,2025-09-24,Day,Flash,Major,1239.0,PC-ABS,22.9,SupplierD,L8993,Inspector_A,0.4
+D10228,P001,Door Trim - LH,T09,M07,2025-07-11,Day,Short Shot,Minor,371.0,POM,34.3,SupplierA,L9228,Inspector_G,0.5
+D10229,P003,Instrument Panel Trim,T02,M02,2025-07-16,Day,Warp ,Minor,412.0,ABS,29.7,SupplierC,L5379,Inspector_G,0.54
+D10230,P002,Door Trim - RH,T06,M07,2025-09-11,Day,Warping,Major,2314.0,ABS,36.0,SupplierA,L1519,Inspector_B,0.72
+D10231,P007,Dashboard Side Trim,T07,M07,2025-08-28,Day,Sink Mark,Minor,250.0,ABS,44.1,SupplierD,L8109,Inspector_F,0.17
+D10232,P010,Sun Visor Trim,T02,M01,2025-09-08,Day,Dimensional Deviation,Major,2064.0,PC-ABS,31.8,SupplierC,L1762,Inspector_B,0.63
+D10233,P005,Roof Trim,T09,M01,2025-09-18,Day,Surface Scratch,Minor,149.0,ABS,42.8,SupplierB,L7525,Inspector_B,0.16
+D10234,P005,Roof Trim,T03,M04,2025-07-03,Day,Surface Scratch,Major,811.0,PC,31.9,SupplierD,L3292,Inspector_B,0.67
+D10235,P009,Seat Back Trim,T06,M01,2025-07-20,Day,Warping,Minor,346.0,PC-ABS,39.1,SupplierD,L6347,Inspector_A,0.44
+D10236,P005,Roof Trim,T08,M08,2025-08-28,Day,Short Shot,Minor,282.0,ABS,36.1,SupplierD,L2404,Inspector_J,0.15
+D10237,P005,Roof Trim,T04,M02,2025-08-05,Day,Sink Mark,Major,1911.0,PC-ABS,43.1,SupplierD,L6188,Inspector_F,2.36
+D10238,P002,Door Trim - RH,T02,M01,2025-07-19,Night,Knit Line,Major,1577.0,ABS,36.9,SupplierA,L4070,Inspector_G,1.75
+D10239,P008,Glovebox Trim,T09,M07,2025-09-28,Day,Sink Mark,Minor,289.0,PC-ABS,35.0,SupplierC,L7311,Inspector_A,0.29
+D10240,P005,Roof Trim,T07,M07,2025-09-05,Swing,Burn Mark,Minor,400.0,POM,37.0,SupplierB,L9537,Inspector_C,0.25
+D10241,P007,Dashboard Side Trim,T03,M03,2025-07-19,Day,Warping,Minor,373.0,ABS,32.9,SupplierC,L7899,Inspector_E,0.15
+D10242,P008,Glovebox Trim,T02,M06,2025-07-20,Day,Warping,Minor,387.0,PC-ABS,32.2,SupplierB,L8501,Inspector_B,0.08
+D10243,P003,Instrument Panel Trim,T05,M01,2025-09-09,Night,Warping,Minor,291.0,PP,39.7,SupplierC,L8212,Inspector_F,0.29
+D10244,P007,Dashboard Side Trim,T10,M03,2025-08-21,Day,Warp ,Major,1499.0,PC,23.8,SupplierB,L7524,Inspector_F,1.54
+D10245,P005,Roof Trim,T08,M04,2025-08-02,Day,Warping,Major,2023.0,PC,36.5,SupplierB,L9939,Inspector_C,2.46
+D10246,P009,Seat Back Trim,T01,M08,2025-08-09,Night,Sink Mark,Major,1244.0,PP,33.5,SupplierA,L7703,Inspector_H,1.81
+D10247,P003,Instrument Panel Trim,T05,M04,2025-08-08,Day,Warp ,Minor,241.0,PC,41.5,SupplierD,L8851,Inspector_J,0.25
+D10248,P007,Dashboard Side Trim,T09,M07,2025-09-20,Day,Warp ,Minor,217.0,PP,29.3,SupplierA,L2791,Inspector_D,0.13
+D10249,P006,B-Pillar Trim,T03,M01,2025-07-01,Day,Warp ,Minor,220.0,POM,39.2,SupplierC,L8052,Inspector_B,0.06
+D10250,P001,Door Trim - LH,T02,M05,2025-07-11,Day,Warp ,Minor,367.0,PC-ABS,39.2,SupplierB,L8303,Inspector_F,0.1
+D10251,P007,Dashboard Side Trim,T08,M03,2025-08-26,Day,Sink Mark,Minor,317.0,PC,22.9,SupplierA,L2901,Inspector_C,0.46
+D10252,P006,B-Pillar Trim,T05,M06,2025-09-27,Day,Sink Mark,Minor,331.0,PC,28.6,SupplierD,L8412,Inspector_F,0.39
+D10253,P002,Door Trim - RH,T05,M01,2025-08-19,Swing,Sink Mark,Major,1173.0,PC-ABS,34.3,SupplierB,L4996,Inspector_I,0.27
+D10254,P003,Instrument Panel Trim,T09,M03,2025-07-23,Day,Knit Line,Minor,218.0,PP,41.4,SupplierB,L4053,Inspector_G,0.24
+D10255,P007,Dashboard Side Trim,T01,M04,2025-07-31,Day,Knit Line,Minor,234.0,ABS,31.6,SupplierC,L2025,Inspector_J,0.13
+D10256,P002,Door Trim - RH,T09,M03,2025-08-11,Day,Sink Mark,Minor,335.0,PC-ABS,23.3,SupplierD,L9646,Inspector_F,0.14
+D10257,P010,Sun Visor Trim,T07,M07,2025-07-07,Day,Warping,Major,2298.0,PC-ABS,18.8,SupplierC,L2388,Inspector_C,2.53
+D10258,P006,B-Pillar Trim,T02,M04,2025-07-16,Day,Sink Mark,Major,1342.0,PC,33.5,SupplierD,L3258,Inspector_J,1.41
+D10259,P007,Dashboard Side Trim,T07,M03,2025-09-28,Day,Short Shot,Major,1619.0,POM,34.6,SupplierB,L3733,Inspector_H,2.33
+D10260,P005,Roof Trim,T03,M03,2025-08-29,Day,Knit Line,Minor,195.0,PC,35.9,SupplierA,L8939,Inspector_C,0.15
+D10261,P004,Center Console Trim,T07,M08,2025-07-02,Day,Short Shot,Major,1987.0,PC,31.4,SupplierB,L2354,Inspector_J,1.42
+D10262,P001,Door Trim - LH,T04,M05,2025-07-01,Day,Warping,Minor,289.0,PP,31.7,SupplierD,L9369,Inspector_B,0.39
+D10263,P010,Sun Visor Trim,T02,M05,2025-08-17,Swing,Surface Scratch,Minor,150.0,PP,33.5,SupplierA,L8231,Inspector_I,0.07
+D10264,P004,Center Console Trim,T07,M02,2025-07-12,Swing,Flash,Minor,147.0,PP,24.5,SupplierA,L8368,Inspector_E,0.19
+D10265,P006,B-Pillar Trim,T02,M08,2025-09-07,Night,Sink Mark,Major,1560.0,ABS,40.7,SupplierC,L8015,Inspector_C,100.0
+D10266,P010,Sun Visor Trim,T03,M04,2025-08-06,Swing,Surface Scratch,Minor,145.0,PC,34.1,SupplierB,L6302,Inspector_E,0.17
+D10267,P005,Roof Trim,T10,M05,2025-08-01,Night,Short Shot,Major,2195.0,PP,34.7,SupplierB,L7743,Inspector_A,2.61
+D10268,P005,Roof Trim,T03,M03,2025-07-09,Day,Burn Mark,Major,2257.0,PP,33.2,SupplierD,L9019,Inspector_C,2.79
+D10269,P010,Sun Visor Trim,T05,M07,2025-07-19,Day,Sink Mark,Major,1568.0,PP,36.3,SupplierD,L9447,Inspector_E,0.55
+D10270,P006,B-Pillar Trim,T08,M08,2025-08-17,Day,Sink Mark,Major,1260.0,PP,27.9,SupplierD,L6869,Inspector_B,0.58
+D10271,P009,Seat Back Trim,T07,M04,2025-09-18,Night,Surface Scratch,Minor,175.0,ABS,42.8,SupplierC,L6533,Inspector_I,0.05
+D10272,P010,Sun Visor Trim,T03,M08,2025-07-03,Swing,Surface Scratch,Major,1103.0,ABS,37.0,SupplierD,L1266,Inspector_B,0.67
+D10273,P003,Instrument Panel Trim,T08,M08,2025-07-20,Day,Dimensional Deviation,Minor,386.0,PC-ABS,28.1,SupplierB,L5945,Inspector_C,0.08
+D10274,P005,Roof Trim,T02,M06,2025-07-24,Day,Knit Line,Major,1113.0,ABS,29.3,SupplierD,L6005,Inspector_D,1.09
+D10275,P007,Dashboard Side Trim,T02,M02,2025-08-23,Day,Warp ,Minor,214.0,ABS,17.5,SupplierD,L1152,Inspector_A,0.24
+D10276,P006,B-Pillar Trim,T02,M07,2025-08-02,Swing,Knit Line,Minor,289.0,ABS,26.2,SupplierA,L2690,Inspector_F,0.15
+D10277,P006,B-Pillar Trim,T05,M03,2025-07-24,Day,Surface Scratch,Major,1336.0,PC-ABS,31.7,SupplierB,L2120,Inspector_I,0.51
+D10278,P010,Sun Visor Trim,T01,M03,2025-09-13,Day,Burn Mark,Minor,351.0,ABS,41.0,SupplierD,L8248,Inspector_D,0.33
+D10279,P002,Door Trim - RH,T02,M03,2025-09-10,Swing,Short Shot,Minor,225.0,POM,43.3,SupplierC,L3290,Inspector_D,0.14
+D10280,P005,Roof Trim,T02,M04,2025-08-05,Day,Warp ,Minor,199.0,PP,30.5,SupplierA,L5942,Inspector_D,0.05
+D10281,P009,Seat Back Trim,T10,M04,2025-08-07,Swing,Warp ,Minor,254.0,PP,27.9,SupplierB,L9108,Inspector_G,0.18
+D10282,P002,Door Trim - RH,T04,M08,2025-09-22,Swing,Sink Mark,Major,1266.0,ABS,42.8,SupplierC,L6185,Inspector_C,1.57
+D10283,P007,Dashboard Side Trim,T10,M07,2025-09-27,Day,Burn Mark,Major,1766.0,POM,41.8,SupplierA,L1273,Inspector_J,0.74
+D10284,P002,Door Trim - RH,T01,M05,2025-07-25,Day,Warp ,Critical,7764.0,PC,40.4,SupplierC,L9209,Inspector_G,1.87
+D10285,P007,Dashboard Side Trim,T07,M02,2025-07-18,Swing,Short Shot,Minor,381.0,ABS,37.5,SupplierA,L9377,Inspector_D,0.1
+D10286,P003,Instrument Panel Trim,T09,M06,2025-09-20,Day,Flash,Major,1214.0,PC-ABS,36.2,SupplierA,L6081,Inspector_G,1.37
+D10287,P004,Center Console Trim,T01,M04,2025-09-04,Day,Knit Line,Minor,281.0,PC-ABS,34.4,SupplierC,L3877,Inspector_B,0.18
+D10288,P001,Door Trim - LH,T03,M01,2025-08-23,Day,Dimensional Deviation,Minor,464.0,PP,39.9,SupplierC,L3735,Inspector_F,0.37
+D10289,P003,Instrument Panel Trim,T05,M02,2025-08-04,Swing,Sink Mark,Major,1708.0,ABS,33.2,SupplierA,L5308,Inspector_J,1.51
+D10290,P002,Door Trim - RH,T08,M08,2025-09-18,Day,Sink Mark,Major,1784.0,ABS,28.1,SupplierB,L5179,Inspector_B,2.38
+D10291,P010,Sun Visor Trim,T02,M04,2025-08-30,Swing,Sink Mark,Major,1341.0,ABS,29.1,SupplierA,L8729,Inspector_F,1.97
+D10292,P007,Dashboard Side Trim,T03,M03,2025-08-10,Night,Surface Scratch,Minor,160.0,POM,41.1,SupplierD,L4678,Inspector_F,0.17
+D10293,P004,Center Console Trim,T07,M06,2025-08-02,Day,Sink Mark,Minor,263.0,PC,28.6,SupplierA,L3938,Inspector_D,0.24
+D10294,P009,Seat Back Trim,T01,M07,2025-09-06,Day,Knit Line,Minor,270.0,PP,32.2,SupplierC,L2415,Inspector_I,0.12
+D10295,P008,Glovebox Trim,T01,M06,2025-08-02,Day,Short Shot,Minor,338.0,PC-ABS,32.7,SupplierD,L7033,Inspector_J,0.1
+D10296,P008,Glovebox Trim,T04,M04,2025-07-14,Day,Warp ,Minor,294.0,PC,30.5,SupplierA,L6488,Inspector_A,0.39
+D10297,P007,Dashboard Side Trim,T05,M02,2025-07-21,Day,Dimensional Deviation,Minor,445.0,POM,28.0,SupplierB,L5584,Inspector_B,0.52
+D10298,P001,Door Trim - LH,T04,M07,2025-08-17,Swing,Warp ,Critical,5804.0,ABS,24.6,SupplierA,L9280,Inspector_C,8.61
+D10299,P007,Dashboard Side Trim,T02,M01,2025-07-20,Day,Dimensional Deviation,Minor,296.0,ABS,23.2,SupplierC,L7438,Inspector_F,0.39
+D10300,P006,B-Pillar Trim,T08,M05,2025-07-08,Day,Dimensional Deviation,Minor,412.0,PP,42.1,SupplierA,L3546,Inspector_B,0.34
+D10301,P003,Instrument Panel Trim,T08,M08,2025-07-07,Day,Warp ,Minor,317.0,PP,29.2,SupplierD,L6051,Inspector_H,0.43
+D10302,P005,Roof Trim,T02,M02,2025-09-05,Day,Warp ,Major,2021.0,PC-ABS,35.9,SupplierA,L4522,Inspector_F,2.8
+D10303,P003,Instrument Panel Trim,T02,M04,2025-07-17,Night,Knit Line,Minor,203.0,ABS,22.5,SupplierB,L1509,Inspector_G,0.21
+D10304,P008,Glovebox Trim,T09,M04,2025-08-02,Day,Sink Mark,Major,1697.0,ABS,28.2,SupplierA,L4641,Inspector_C,1.92
+D10305,P004,Center Console Trim,T07,M06,2025-08-17,Swing,Dimensional Deviation,Minor,484.0,PC-ABS,34.4,SupplierA,L1357,Inspector_B,0.21
+D10306,P004,Center Console Trim,T08,M03,2025-09-14,Day,Surface Scratch,Major,904.0,ABS,31.8,SupplierD,L1829,Inspector_C,0.47
+D10307,P010,Sun Visor Trim,T07,M07,2025-08-28,Day,Knit Line,Minor,290.0,PC,39.0,SupplierB,L5505,Inspector_E,0.23
+D10308,P008,Glovebox Trim,T03,M01,2025-09-24,Swing,Flash,Minor,199.0,PC,38.9,SupplierD,L1999,Inspector_B,0.08
+D10309,P005,Roof Trim,T07,M03,2025-07-22,Day,Flash,Major,1117.0,ABS,21.6,SupplierA,L7266,Inspector_F,1.63
+D10310,P008,Glovebox Trim,T09,M08,2025-07-30,Day,Short Shot,Minor,267.0,ABS,24.2,SupplierA,L6224,Inspector_J,0.32
+D10311,P004,Center Console Trim,T01,M05,2025-08-07,Day,Dimensional Deviation,Minor,316.0,PP,39.0,SupplierB,L3615,Inspector_B,0.46
+D10312,P004,Center Console Trim,T04,M05,2025-08-20,Day,Surface Scratch,Major,1029.0,PP,32.5,SupplierB,L7363,Inspector_F,0.66
+D10313,P003,Instrument Panel Trim,T03,M04,2025-08-23,Day,Surface Scratch,Major,1245.0,POM,30.3,SupplierA,L6761,Inspector_J,0.95
+D10314,P010,Sun Visor Trim,T03,M04,2025-07-08,Swing,Surface Scratch,Critical,3796.0,PC,41.0,SupplierB,L9035,Inspector_A,1.58
+D10315,P002,Door Trim - RH,T01,M04,2025-07-27,Swing,Sink Mark,Minor,216.0,ABS,37.1,SupplierB,L3137,Inspector_F,0.05
+D10316,P003,Instrument Panel Trim,T06,M01,2025-07-27,Day,Short Shot,Major,2086.0,PP,30.1,SupplierC,L2188,Inspector_F,2.71
+D10317,P007,Dashboard Side Trim,T10,M02,2025-07-21,Day,Warping,Critical,9625.0,PP,44.5,SupplierD,L8982,Inspector_F,9.25
+D10318,P003,Instrument Panel Trim,T09,M06,2025-07-30,Day,Short Shot,Minor,369.0,ABS,30.4,SupplierC,L3086,Inspector_C,0.2
+D10319,P001,Door Trim - LH,T10,M07,2025-07-28,Night,Surface Scratch,Minor,133.0,ABS,30.8,SupplierC,L4619,Inspector_J,0.12
+D10320,P002,Door Trim - RH,T08,M03,2025-09-02,Day,Sink Mark,Minor,326.0,ABS,36.4,SupplierA,L6500,Inspector_H,0.2
+D10321,P001,Door Trim - LH,T05,M04,2025-09-07,Day,Sink Mark,Minor,265.0,ABS,31.5,SupplierA,L1788,Inspector_G,0.07
+D10322,P008,Glovebox Trim,T07,M03,2025-08-30,Night,Warp ,Minor,248.0,PC,37.5,SupplierA,L8855,Inspector_J,0.2
+D10323,P004,Center Console Trim,T03,M08,2025-08-17,Day,Warp ,Minor,177.0,ABS,34.1,SupplierA,L2215,Inspector_F,0.15
+D10324,P003,Instrument Panel Trim,T07,M03,2025-07-19,Swing,Short Shot,Major,2016.0,ABS,38.6,SupplierD,L1507,Inspector_G,0.93
+D10325,P003,Instrument Panel Trim,T10,M07,2025-07-04,Day,Warp ,Minor,288.0,ABS,25.8,SupplierC,L5612,Inspector_E,0.42
+D10326,P004,Center Console Trim,T02,M01,2025-08-04,Day,Short Shot,Minor,239.0,ABS,28.3,SupplierA,L8005,Inspector_B,0.32
+D10327,P005,Roof Trim,T10,M08,2025-09-02,Day,Sink Mark,Minor,217.0,ABS,43.5,SupplierA,L8758,Inspector_B,0.24
+D10328,P005,Roof Trim,T07,M08,2025-08-18,Day,Flash,Minor,234.0,PC,32.9,SupplierB,L7078,Inspector_G,0.2
+D10329,P006,B-Pillar Trim,T03,M08,2025-07-17,Day,Warp ,Minor,257.0,PP,34.2,SupplierA,L3476,Inspector_B,0.34
+D10330,P002,Door Trim - RH,T06,M07,2025-08-13,Night,Short Shot,Minor,319.0,PP,38.6,SupplierD,L9773,Inspector_H,0.15
+D10331,P010,Sun Visor Trim,T04,M08,2025-07-30,Day,Knit Line,Major,1577.0,ABS,39.1,SupplierB,L2970,Inspector_H,1.12
+D10332,P003,Instrument Panel Trim,T03,M04,2025-08-15,Swing,Sink Mark,Minor,285.0,POM,39.8,SupplierD,L4308,Inspector_C,0.43
+D10333,P010,Sun Visor Trim,T05,M06,2025-07-06,Night,Dimensional Deviation,Minor,298.0,PC,27.5,SupplierD,L6343,Inspector_E,0.44
+D10334,P009,Seat Back Trim,T08,M01,2025-08-06,Swing,Flash,Minor,187.0,PC,33.9,SupplierD,L3451,Inspector_C,0.18
+D10335,P010,Sun Visor Trim,T10,M02,2025-07-24,Night,Warp ,Minor,348.0,ABS,34.5,SupplierC,L7732,Inspector_E,0.47
+D10336,P007,Dashboard Side Trim,T08,M08,2025-08-15,Day,Warping,Minor,312.0,PC-ABS,39.1,SupplierD,L1635,Inspector_G,0.39
+D10337,P006,B-Pillar Trim,T04,M01,2025-08-22,Swing,Dimensional Deviation,Major,2715.0,ABS,24.6,SupplierC,L6094,Inspector_E,3.36
+D10338,P008,Glovebox Trim,T02,M04,2025-08-29,Day,Dimensional Deviation,Minor,382.0,PP,31.1,SupplierC,L7828,Inspector_J,0.35
+D10339,P002,Door Trim - RH,T04,M08,2025-09-01,Day,Surface Scratch,Major,771.0,PP,32.8,SupplierC,L1920,Inspector_I,0.48
+D10340,P003,Instrument Panel Trim,T02,M05,2025-09-23,Swing,Warp ,Major,1346.0,PC,41.6,SupplierA,L3846,Inspector_D,0.95
+D10341,P004,Center Console Trim,T01,M04,2025-08-01,Day,Warp ,Minor,256.0,ABS,26.9,SupplierC,L8605,Inspector_I,0.13
+D10342,P007,Dashboard Side Trim,T02,M01,2025-09-25,Day,Warp ,Minor,225.0,POM,47.9,SupplierD,L6730,Inspector_F,0.23
+D10343,P003,Instrument Panel Trim,T05,M02,2025-08-02,Day,Knit Line,Minor,237.0,PC-ABS,38.1,SupplierB,L4626,Inspector_D,0.16
+D10344,P004,Center Console Trim,T05,M07,2025-09-05,Day,Surface Scratch,Critical,5272.0,PC-ABS,17.0,SupplierD,L3167,Inspector_C,1.23
+D10345,P010,Sun Visor Trim,T01,M04,2025-07-18,Day,Surface Scratch,Minor,160.0,POM,51.7,SupplierC,L7943,Inspector_G,0.11
+D10346,P006,B-Pillar Trim,T08,M05,2025-07-25,Day,Warping,Minor,311.0,PC-ABS,38.1,SupplierA,L1120,Inspector_I,0.31
+D10347,P006,B-Pillar Trim,T09,M05,2025-08-23,Day,Warp ,Minor,302.0,POM,52.6,SupplierC,L5536,Inspector_E,0.38
+D10348,P005,Roof Trim,T04,M03,2025-08-27,Day,Warping,Minor,369.0,PP,36.6,SupplierD,L6236,Inspector_C,0.19
+D10349,P001,Door Trim - LH,T08,M05,2025-09-05,Day,Knit Line,Minor,298.0,ABS,33.7,SupplierB,L6622,Inspector_D,0.08
+D10350,P009,Seat Back Trim,T08,M06,2025-08-15,Day,Surface Scratch,Major,1306.0,PP,27.5,SupplierB,L5813,Inspector_B,1.09
+D10351,P008,Glovebox Trim,T03,M05,2025-07-24,Swing,Short Shot,Major,1602.0,POM,36.3,SupplierC,L2463,Inspector_D,0.91
+D10352,P006,B-Pillar Trim,T04,M05,2025-08-01,Day,Surface Scratch,Minor,157.0,PC-ABS,33.1,SupplierD,L2929,Inspector_H,0.09
+D10353,P001,Door Trim - LH,T10,M02,2025-08-16,Day,Sink Mark,Minor,279.0,PC-ABS,40.4,SupplierC,L7768,Inspector_A,0.32
+D10354,P003,Instrument Panel Trim,T03,M04,2025-09-24,Day,Dimensional Deviation,Major,2081.0,POM,32.1,SupplierB,L6183,Inspector_C,0.91
+D10355,P002,Door Trim - RH,T08,M06,2025-07-23,Swing,Sink Mark,Minor,290.0,ABS,30.7,SupplierC,L4430,Inspector_C,0.13
+D10356,P010,Sun Visor Trim,T03,M08,2025-09-04,Swing,Surface Scratch,Minor,178.0,PC,28.4,SupplierD,L7609,Inspector_G,0.17
+D10357,P008,Glovebox Trim,T07,M01,2025-07-27,Day,Sink Mark,Minor,228.0,ABS,33.9,SupplierC,L9700,Inspector_D,0.33
+D10358,P001,Door Trim - LH,T01,M04,2025-07-02,Day,Warp ,Minor,174.0,ABS,33.3,SupplierC,L3736,Inspector_B,0.04
+D10359,P001,Door Trim - LH,T05,M05,2025-09-28,Day,Short Shot,Minor,330.0,PC,40.2,SupplierB,L6615,Inspector_H,0.47
+D10360,P006,B-Pillar Trim,T04,M03,2025-07-17,Night,Dimensional Deviation,Minor,417.0,ABS,32.3,SupplierB,L4460,Inspector_A,0.21
+D10361,P010,Sun Visor Trim,T09,M03,2025-08-02,Day,,Major,,,32.2,SupplierC,L9761,Inspector_J,1.77
+D10362,P001,Door Trim - LH,T10,M01,2025-07-09,Swing,Flash,Minor,188.0,PC-ABS,24.5,SupplierD,L8279,Inspector_G,0.23
+D10363,P002,Door Trim - RH,T09,M05,2025-08-12,Day,Sink Mark,Major,1389.0,PC-ABS,27.8,SupplierC,L7895,Inspector_B,1.76
+D10364,P009,Seat Back Trim,T05,M03,2025-08-17,Day,Warp ,Minor,168.0,PC-ABS,28.0,SupplierC,L2867,Inspector_B,0.17
+D10365,P008,Glovebox Trim,T04,M04,2025-08-08,Swing,Surface Scratch,Critical,4284.0,PC,33.7,SupplierD,L5839,Inspector_C,4.12
+D10366,P001,Door Trim - LH,T09,M08,2025-08-11,Night,Burn Mark,Minor,288.0,ABS,35.8,SupplierA,L2458,Inspector_B,0.14
+D10367,P010,Sun Visor Trim,T08,M03,2025-07-26,Night,Surface Scratch,Minor,137.0,PP,34.5,SupplierC,L4787,Inspector_H,0.03
+D10368,P005,Roof Trim,T05,M08,2025-08-19,Day,Warp ,Major,1137.0,PP,300.0,SupplierC,L6123,Inspector_G,0.57
+D10369,P002,Door Trim - RH,T02,M01,2025-07-25,Day,Warp ,Minor,248.0,ABS,45.3,SupplierD,L5395,Inspector_B,0.24
+D10370,P006,B-Pillar Trim,T06,M03,2025-07-24,Day,Knit Line,Minor,241.0,PP,27.2,SupplierD,L7909,Inspector_C,0.18
+D10371,P002,Door Trim - RH,T03,M01,2025-07-13,Night,Surface Scratch,Minor,196.0,POM,47.8,SupplierD,L8178,Inspector_C,0.22
+D10372,P010,Sun Visor Trim,T07,M06,2025-08-29,Swing,Surface Scratch,Major,1338.0,PP,35.4,SupplierB,L8914,Inspector_H,0.74
+D10373,P002,Door Trim - RH,T07,M08,2025-07-07,Day,Warping,Minor,254.0,PP,41.8,SupplierB,L6542,Inspector_I,0.08
+D10374,P009,Seat Back Trim,T10,M02,2025-08-26,Day,Warp ,Minor,,,28.5,SupplierD,L3435,Inspector_I,0.21
+D10375,P010,Sun Visor Trim,T01,M01,2025-08-05,Swing,Sink Mark,Major,1458.0,PP,25.9,SupplierB,L2226,Inspector_H,0.42
+D10376,P006,B-Pillar Trim,T04,M06,2025-08-14,Night,Sink Mark,Minor,266.0,PC-ABS,33.4,SupplierD,L4850,Inspector_B,0.36
+D10377,P008,Glovebox Trim,T08,M08,2025-07-20,Day,,Minor,,,28.7,SupplierA,L2681,Inspector_G,150.0
+D10378,P007,Dashboard Side Trim,T01,M01,2025-09-03,Swing,Surface Scratch,Critical,3978.0,PC-ABS,39.4,SupplierB,L8474,Inspector_F,5.94
+D10379,P006,B-Pillar Trim,T01,M04,2025-07-08,Swing,Warping,Major,2154.0,PC-ABS,24.7,SupplierC,L8414,Inspector_B,1.99
+D10380,P002,Door Trim - RH,T04,M01,2025-07-16,Day,Surface Scratch,Critical,4953.0,ABS,27.8,SupplierC,L2741,Inspector_A,4.61
+D10381,P003,Instrument Panel Trim,T08,M03,2025-07-14,Swing,Warp ,Minor,439.0,ABS,31.7,SupplierB,L4072,Inspector_B,0.19
+D10382,P007,Dashboard Side Trim,T04,M08,2025-09-14,Swing,Sink Mark,Minor,291.0,PP,33.0,SupplierA,L3018,Inspector_H,0.09
+D10383,P008,Glovebox Trim,T10,M03,2025-09-25,Night,Sink Mark,Major,1541.0,PC-ABS,23.5,SupplierD,L8912,Inspector_I,1.82
+D10384,P003,Instrument Panel Trim,T10,M03,2025-07-15,Swing,Sink Mark,Minor,242.0,PC-ABS,38.5,SupplierC,L9259,Inspector_G,0.34
+D10385,P007,Dashboard Side Trim,T10,M04,2025-09-04,Day,Dimensional Deviation,Critical,8467.0,PC,35.7,SupplierB,L3263,Inspector_G,6.09
+D10386,P010,Sun Visor Trim,T09,M05,2025-08-01,Swing,Short Shot,Minor,249.0,PP,39.3,SupplierB,L4291,Inspector_D,0.22
+D10387,P010,Sun Visor Trim,T05,M06,2025-09-25,Night,Sink Mark,Major,1690.0,POM,38.9,SupplierB,L9255,Inspector_I,0.53
+D10388,P006,B-Pillar Trim,T02,M06,2025-09-01,Day,Short Shot,Critical,8772.0,PP,32.8,SupplierC,L7920,Inspector_A,10.67
+D10389,P009,Seat Back Trim,T02,M01,2025-09-24,Day,Sink Mark,Minor,294.0,ABS,31.1,SupplierB,L5695,Inspector_E,0.07
+D10390,P003,Instrument Panel Trim,T01,M05,2025-08-20,Day,Short Shot,Minor,274.0,PC,27.3,SupplierB,L7371,Inspector_D,0.09
+D10391,P009,Seat Back Trim,T05,M01,2025-07-25,Night,Knit Line,Critical,7491.0,POM,30.0,SupplierC,L1881,Inspector_A,6.89
+D10392,P005,Roof Trim,T04,M08,2025-08-27,Swing,Dimensional Deviation,Major,2123.0,PC-ABS,25.4,SupplierB,L4170,Inspector_E,2.08
+D10393,P008,Glovebox Trim,T03,M02,2025-09-01,Day,Sink Mark,Minor,266.0,PC,19.1,SupplierD,L5572,Inspector_I,0.37
+D10394,P005,Roof Trim,T03,M03,2025-08-31,Day,,Minor,,,32.5,SupplierB,L1654,Inspector_C,0.23
+D10395,P006,B-Pillar Trim,T10,M01,2025-07-22,Swing,Flash,Major,1432.0,ABS,31.4,SupplierC,L2194,Inspector_F,1.9
+D10396,P009,Seat Back Trim,T04,M03,2025-08-27,Day,Surface Scratch,Minor,205.0,PC,28.0,SupplierD,L2506,Inspector_F,0.06
+D10397,P004,Center Console Trim,T04,M06,2025-08-27,Day,Warping,Critical,7813.0,PC-ABS,38.0,SupplierD,L1144,Inspector_B,3.33
+D10398,P006,B-Pillar Trim,T08,M04,2025-09-24,Night,Flash,Minor,219.0,POM,38.2,SupplierC,L7248,Inspector_B,0.23
+D10399,P007,Dashboard Side Trim,T05,M05,2025-08-18,Day,Warp ,Major,2173.0,PC,31.9,SupplierD,L8975,Inspector_A,0.81
+D10400,P005,Roof Trim,T04,M06,2025-08-21,Day,Dimensional Deviation,Minor,474.0,POM,37.8,SupplierA,L2072,Inspector_D,0.47
+D10401,P004,Center Console Trim,T07,M02,2025-08-11,Day,Surface Scratch,Major,1208.0,PP,36.9,SupplierD,L2181,Inspector_C,0.52
+D10402,P001,Door Trim - LH,T08,M06,2025-09-08,Day,Sink Mark,Minor,264.0,ABS,25.6,SupplierA,L4729,Inspector_E,0.18
+D10403,P007,Dashboard Side Trim,T07,M08,2025-07-15,Swing,Knit Line,Minor,184.0,PC-ABS,30.2,SupplierA,L2036,Inspector_J,0.04
+D10404,P001,Door Trim - LH,T02,M06,2025-08-23,Night,Sink Mark,Major,1268.0,ABS,32.3,SupplierA,L5612,Inspector_H,1.85
+D10405,P007,Dashboard Side Trim,T07,M01,2025-08-29,Day,Short Shot,Minor,296.0,PC,35.2,SupplierC,L3360,Inspector_E,0.18
+D10406,P006,B-Pillar Trim,T01,M03,2025-07-08,Day,Sink Mark,Minor,264.0,PC,26.4,SupplierA,L5992,Inspector_D,0.27
+D10407,P006,B-Pillar Trim,T04,M07,2025-08-22,Night,Surface Scratch,Minor,148.0,ABS,31.1,SupplierC,L4183,Inspector_B,0.15
+D10408,P003,Instrument Panel Trim,T10,M01,2025-08-29,Night,Warp ,Critical,10711.0,PC,30.7,SupplierA,L5762,Inspector_B,2.95
+D10409,P005,Roof Trim,T02,M04,2025-07-05,Swing,Knit Line,Minor,307.0,ABS,40.9,SupplierB,L2639,Inspector_E,0.08
+D10410,P010,Sun Visor Trim,T02,M04,2025-09-06,Day,Knit Line,Minor,267.0,ABS,28.3,SupplierB,L6971,Inspector_F,0.29
+D10411,P007,Dashboard Side Trim,T03,M01,2025-07-06,Day,Surface Scratch,Major,803.0,PC-ABS,30.2,SupplierC,L6889,Inspector_C,0.69
+D10412,P006,B-Pillar Trim,T08,M08,2025-08-16,Day,Warp ,Minor,223.0,ABS,34.6,SupplierA,L5597,Inspector_C,0.13
+D10413,P009,Seat Back Trim,T04,M05,2025-08-24,Swing,Flash,Major,1268.0,PP,39.1,SupplierA,L7637,Inspector_J,1.12
+D10414,P004,Center Console Trim,T01,M05,2025-08-09,Day,Dimensional Deviation,Minor,380.0,PP,23.8,SupplierC,L7430,Inspector_D,0.26
+D10415,P010,Sun Visor Trim,T05,M03,2025-08-21,Day,Warp ,Minor,293.0,PC,30.7,SupplierB,L3717,Inspector_I,0.37
+D10416,P003,Instrument Panel Trim,T08,M03,2025-07-16,Day,Dimensional Deviation,Major,2678.0,POM,34.5,SupplierD,L6878,Inspector_A,0.6
+D10417,P004,Center Console Trim,T08,M04,2025-07-13,Day,Warp ,Minor,286.0,ABS,16.5,SupplierC,L7358,Inspector_H,0.34
+D10418,P008,Glovebox Trim,T01,M01,2025-07-30,Night,Warping,Major,1588.0,PC,23.1,SupplierC,L5314,Inspector_J,0.34
+D10419,P009,Seat Back Trim,T10,M03,2025-07-19,Day,Knit Line,Minor,207.0,PP,33.1,SupplierA,L9465,Inspector_E,0.3
+D10420,P007,Dashboard Side Trim,T04,M07,2025-07-17,Day,Surface Scratch,Minor,204.0,PC,31.9,SupplierA,L9222,Inspector_C,0.07
+D10421,P008,Glovebox Trim,T03,M04,2025-09-01,Day,Flash,Minor,203.0,ABS,35.5,SupplierC,L2938,Inspector_D,0.16
+D10422,P007,Dashboard Side Trim,T06,M02,2025-07-19,Day,Knit Line,Minor,287.0,ABS,31.8,SupplierD,L1367,Inspector_D,0.11
+D10423,P001,Door Trim - LH,T03,M03,2025-08-27,Day,Warp ,Major,1671.0,ABS,26.4,SupplierB,L5231,Inspector_C,1.94
+D10424,P009,Seat Back Trim,T07,M01,2025-08-24,Night,Burn Mark,Major,2084.0,POM,29.8,SupplierB,L8359,Inspector_J,1.66
+D10425,P008,Glovebox Trim,T08,M03,2025-09-28,Day,Warp ,Minor,279.0,PC-ABS,22.3,SupplierB,L9369,Inspector_E,0.38
+D10426,P003,Instrument Panel Trim,T06,M08,2025-09-28,Day,Sink Mark,Minor,329.0,ABS,28.0,SupplierA,L4315,Inspector_I,0.36
+D10427,P009,Seat Back Trim,T07,M03,2025-08-31,Swing,Sink Mark,Major,1530.0,PC-ABS,38.2,SupplierA,L2526,Inspector_H,0.81
+D10428,P003,Instrument Panel Trim,T10,M01,2025-07-23,Night,Surface Scratch,Minor,208.0,PC,44.9,SupplierC,L1711,Inspector_I,0.22
+D10429,P007,Dashboard Side Trim,T04,M08,2025-07-09,Swing,Knit Line,Minor,294.0,PP,28.4,SupplierA,L7971,Inspector_C,0.3
+D10430,P005,Roof Trim,T08,M04,2025-07-12,Night,Sink Mark,Minor,280.0,PC,32.2,SupplierC,L4096,Inspector_A,0.11
+D10431,P001,Door Trim - LH,T10,M02,2025-07-01,Day,Knit Line,Minor,273.0,PP,27.5,SupplierD,L6935,Inspector_B,0.24
+D10432,P003,Instrument Panel Trim,T07,M05,2025-08-27,Day,Short Shot,Minor,338.0,PC-ABS,29.8,SupplierD,L4337,Inspector_G,0.1
+D10433,P009,Seat Back Trim,T09,M08,2025-07-01,Day,Short Shot,Minor,226.0,POM,39.1,SupplierC,L7522,Inspector_C,0.33
+D10434,P002,Door Trim - RH,T04,M08,2025-08-03,Swing,Warp ,Minor,447.0,PC,2.0,SupplierC,L1852,Inspector_C,0.29
+D10435,P007,Dashboard Side Trim,T01,M02,2025-08-17,Swing,Knit Line,Minor,278.0,ABS,26.2,SupplierC,L4633,Inspector_F,0.29
+D10436,P002,Door Trim - RH,T10,M01,2025-09-27,Swing,Dimensional Deviation,Minor,328.0,PC-ABS,39.1,SupplierC,L1941,Inspector_C,0.18
+D10437,P008,Glovebox Trim,T08,M01,2025-07-01,Day,Warp ,Major,877.0,ABS,36.3,SupplierA,L9364,Inspector_I,0.27
+D10438,P004,Center Console Trim,T10,M03,2025-07-16,Swing,Warping,Major,2485.0,POM,44.0,SupplierA,L5520,Inspector_G,2.51
+D10439,P006,B-Pillar Trim,T07,M07,2025-08-30,Day,Short Shot,Major,1728.0,ABS,27.5,SupplierA,L5661,Inspector_I,0.81
+D10440,P010,Sun Visor Trim,T06,M06,2025-09-02,Night,Warping,Minor,261.0,ABS,40.0,SupplierD,L1076,Inspector_E,0.27
+D10441,P003,Instrument Panel Trim,T07,M02,2025-09-01,Day,Warp ,Minor,313.0,ABS,35.3,SupplierC,L9813,Inspector_J,0.08
+D10442,P005,Roof Trim,T08,M07,2025-09-07,Day,Warp ,Major,1325.0,POM,34.1,SupplierD,L8548,Inspector_J,1.95
+D10443,P001,Door Trim - LH,T08,M02,2025-07-22,Day,Knit Line,Major,1532.0,ABS,37.6,SupplierB,L6172,Inspector_G,1.47
+D10444,P006,B-Pillar Trim,T09,M01,2025-09-05,Swing,Warping,Minor,374.0,PC,35.2,SupplierC,L2245,Inspector_I,0.14
+D10445,P003,Instrument Panel Trim,T08,M06,2025-09-14,Day,Surface Scratch,Minor,160.0,POM,44.4,SupplierB,L9175,Inspector_D,0.23
+D10446,P004,Center Console Trim,T04,M05,2025-07-26,Day,Warp ,Minor,224.0,PC-ABS,25.7,SupplierB,L2747,Inspector_B,0.17
+D10447,P002,Door Trim - RH,T08,M01,2025-07-16,Swing,Short Shot,Minor,326.0,PC,20.2,SupplierC,L9066,Inspector_J,0.46
+D10448,P005,Roof Trim,T08,M03,2025-08-20,Night,Warp ,Minor,339.0,ABS,30.7,SupplierB,L1887,Inspector_I,0.46
+D10449,P007,Dashboard Side Trim,T08,M01,2025-09-24,Day,Warp ,Major,1567.0,ABS,120.0,SupplierA,L9490,Inspector_H,0.9
+D10450,P006,B-Pillar Trim,T01,M01,2025-08-26,Swing,,Minor,,,31.0,SupplierC,L4066,Inspector_I,0.33
+D10451,P005,Roof Trim,T04,M05,2025-07-29,Day,Warp ,Minor,193.0,PC,33.7,SupplierB,L7866,Inspector_F,0.25
+D10452,P006,B-Pillar Trim,T07,M05,2025-09-16,Day,Warp ,Critical,8659.0,PC-ABS,36.0,SupplierA,L5422,Inspector_D,3.73
+D10453,P009,Seat Back Trim,T07,M07,2025-09-07,Day,Surface Scratch,Major,1081.0,PC,39.0,SupplierA,L3893,Inspector_G,1.6
+D10454,P008,Glovebox Trim,T03,M06,2025-08-16,Swing,Warping,Minor,408.0,PC-ABS,34.4,SupplierD,L2621,Inspector_C,0.52
+D10455,P001,Door Trim - LH,T04,M05,2025-08-31,Day,Flash,Minor,167.0,ABS,28.1,SupplierC,L6903,Inspector_I,0.14
+D10456,P009,Seat Back Trim,T05,M06,2025-09-07,Day,Sink Mark,Major,1878.0,POM,39.9,SupplierB,L9821,Inspector_C,1.82
+D10457,P005,Roof Trim,T06,M06,2025-09-14,Swing,Knit Line,Major,1458.0,PP,42.2,SupplierD,L5694,Inspector_H,0.86
+D10458,P003,Instrument Panel Trim,T03,M06,2025-07-16,Day,Flash,Minor,205.0,POM,42.5,SupplierA,L3654,Inspector_F,0.21
+D10459,P004,Center Console Trim,T06,M06,2025-09-28,Swing,Burn Mark,Minor,402.0,PC,34.3,SupplierD,L6950,Inspector_J,0.16
+D10460,P009,Seat Back Trim,T08,M07,2025-09-28,Day,Warp ,Minor,172.0,ABS,30.7,SupplierC,L2311,Inspector_D,0.21
+D10461,P003,Instrument Panel Trim,T07,M02,2025-08-17,Day,Dimensional Deviation,Minor,332.0,ABS,26.9,SupplierD,L9584,Inspector_B,0.31
+D10462,P002,Door Trim - RH,T05,M03,2025-09-23,Day,Dimensional Deviation,Minor,446.0,ABS,24.8,SupplierC,L8260,Inspector_C,0.3
+D10463,P003,Instrument Panel Trim,T09,M03,2025-08-08,Day,Flash,Major,1371.0,ABS,34.7,SupplierD,L8654,Inspector_I,1.26
+D10464,P005,Roof Trim,T09,M08,2025-08-02,Day,Dimensional Deviation,Minor,289.0,PC-ABS,27.3,SupplierD,L8126,Inspector_I,0.42
+D10465,P009,Seat Back Trim,T05,M06,2025-07-23,Day,Warping,Minor,306.0,ABS,35.9,SupplierD,L5256,Inspector_C,0.19
+D10466,P005,Roof Trim,T01,M01,2025-07-10,Day,Surface Scratch,Minor,142.0,ABS,36.3,SupplierA,L9059,Inspector_H,0.21
+D10467,P005,Roof Trim,T01,M07,2025-09-07,Swing,Flash,Major,1102.0,PC,29.8,SupplierB,L7745,Inspector_I,0.86
+D10468,P007,Dashboard Side Trim,T07,M04,2025-08-03,Day,Burn Mark,Minor,394.0,PC,33.3,SupplierC,L2297,Inspector_G,0.28
+D10469,P004,Center Console Trim,T09,M05,2025-08-21,Day,Burn Mark,Major,2011.0,PC,37.6,SupplierA,L3988,Inspector_C,2.22
+D10470,P005,Roof Trim,T02,M08,2025-07-10,Swing,Warping,Minor,240.0,ABS,22.8,SupplierA,L3492,Inspector_A,0.3
+D10471,P009,Seat Back Trim,T01,M03,2025-07-19,Night,Warp ,Minor,256.0,PC,39.6,SupplierA,L4814,Inspector_B,0.25
+D10472,P003,Instrument Panel Trim,T01,M08,2025-08-27,Day,Knit Line,Major,1436.0,PC,28.6,SupplierC,L8597,Inspector_A,1.37
+D10473,P006,B-Pillar Trim,T02,M03,2025-07-01,Day,Surface Scratch,Minor,181.0,PC,33.1,SupplierB,L5097,Inspector_G,0.17
+D10474,P001,Door Trim - LH,T02,M04,2025-09-07,Day,Warp ,Minor,418.0,POM,44.1,SupplierB,L8550,Inspector_B,0.23
+D10475,P009,Seat Back Trim,T04,M08,2025-07-04,Day,Warp ,Critical,11655.0,ABS,200.0,SupplierA,L9534,Inspector_B,9.88
+D10476,P005,Roof Trim,T08,M05,2025-07-16,Day,Surface Scratch,Major,812.0,ABS,31.0,SupplierA,L4866,Inspector_G,0.99
+D10477,P006,B-Pillar Trim,T01,M03,2025-07-24,Swing,Short Shot,Minor,342.0,ABS,29.3,SupplierA,L8786,Inspector_J,0.42
+D10478,P003,Instrument Panel Trim,T06,M02,2025-09-18,Day,Short Shot,Major,1865.0,ABS,25.1,SupplierA,L1979,Inspector_F,1.17
+D10479,P003,Instrument Panel Trim,T09,M02,2025-07-02,Day,Warping,Critical,7953.0,PP,30.8,SupplierC,L8187,Inspector_D,2.51
+D10480,P001,Door Trim - LH,T07,M06,2025-08-01,Swing,Warp ,Minor,279.0,PP,5.0,SupplierC,L9892,Inspector_H,0.42
+D10481,P004,Center Console Trim,T10,M03,2025-09-22,Day,Warping,Minor,407.0,PP,35.8,SupplierB,L2128,Inspector_I,0.42
+D10482,P003,Instrument Panel Trim,T08,M05,2025-07-24,Swing,Short Shot,Minor,294.0,PP,39.3,SupplierD,L4039,Inspector_A,0.1
+D10483,P010,Sun Visor Trim,T06,M04,2025-07-12,Day,Sink Mark,Critical,6275.0,PP,35.5,SupplierB,L9586,Inspector_H,8.11
+D10484,P009,Seat Back Trim,T03,M05,2025-08-19,Day,Flash,Minor,185.0,PC,43.3,SupplierA,L1717,Inspector_C,0.08
+D10485,P003,Instrument Panel Trim,T01,M04,2025-08-04,Day,Sink Mark,Minor,244.0,PC-ABS,41.3,SupplierD,L9026,Inspector_I,0.15
+D10486,P010,Sun Visor Trim,T10,M05,2025-08-02,Day,Warping,Major,1468.0,ABS,32.8,SupplierB,L9051,Inspector_B,0.86
+D10487,P008,Glovebox Trim,T01,M06,2025-08-02,Day,Dimensional Deviation,Minor,491.0,PC,21.4,SupplierA,L5355,Inspector_I,0.26
+D10488,P001,Door Trim - LH,T02,M05,2025-08-30,Day,Sink Mark,Minor,253.0,ABS,35.1,SupplierB,L9710,Inspector_G,0.2
+D10489,P004,Center Console Trim,T04,M04,2025-08-20,Day,Dimensional Deviation,Minor,392.0,PC-ABS,28.8,SupplierA,L6864,Inspector_H,0.15
+D10490,P007,Dashboard Side Trim,T02,M03,2025-08-12,Swing,Short Shot,Minor,237.0,PC-ABS,31.8,SupplierD,L6772,Inspector_F,0.18
+D10491,P009,Seat Back Trim,T06,M06,2025-07-12,Day,Flash,Major,1336.0,ABS,42.6,SupplierB,L9939,Inspector_D,1.6
+D10492,P007,Dashboard Side Trim,T09,M05,2025-09-05,Day,Knit Line,Critical,4924.0,ABS,26.0,SupplierA,L5660,Inspector_J,5.79
+D10493,P001,Door Trim - LH,T09,M03,2025-09-03,Night,Warp ,Minor,358.0,ABS,33.8,SupplierC,L1355,Inspector_E,0.52
+D10494,P009,Seat Back Trim,T09,M03,2025-08-02,Day,Knit Line,Minor,185.0,ABS,31.4,SupplierB,L4817,Inspector_E,0.1
+D10495,P005,Roof Trim,T02,M07,2025-08-09,Day,Warp ,Minor,227.0,ABS,30.8,SupplierD,L3832,Inspector_H,0.31
+D10496,P010,Sun Visor Trim,T02,M05,2025-09-12,Day,Surface Scratch,Minor,151.0,PP,37.5,SupplierC,L6700,Inspector_G,0.12
+D10497,P007,Dashboard Side Trim,T02,M04,2025-08-12,Swing,Surface Scratch,Major,1215.0,PC-ABS,27.2,SupplierD,L1886,Inspector_E,0.35
+D10498,P009,Seat Back Trim,T01,M06,2025-08-13,Day,Sink Mark,Minor,262.0,ABS,17.5,SupplierA,L7436,Inspector_H,0.17
+D10499,P010,Sun Visor Trim,T10,M02,2025-07-29,Day,Warping,Minor,401.0,ABS,37.3,SupplierA,L8796,Inspector_J,0.09
+D10361,P010,Sun Visor Trim,T09,M03,2025-08-02,Day,,Major,,,32.2,SupplierC,L9761,Inspector_J,1.77
+D10073,P002,Door Trim - RH,T03,M04,2025-07-18,Day,Warp ,Minor,,,33.3,SupplierD,L5771,Inspector_A,0.09
+D10374,P009,Seat Back Trim,T10,M02,2025-08-26,Day,,Minor,,,28.5,SupplierD,L3435,Inspector_I,0.21
+D10155,P002,Door Trim - RH,T08,M01,2025-07-13,Day,,Minor,,,39.6,SupplierC,L9444,Inspector_G,0.11
+D10104,P007,Dashboard Side Trim,T02,M03,2025-07-01,Day,Warp ,Critical,,,17.2,SupplierB,L9807,Inspector_C,4.54
+D10394,P005,Roof Trim,T03,M03,2025-08-31,Day,Warp ,Minor,,,32.5,SupplierB,L1654,Inspector_C,0.23
+D10377,P008,Glovebox Trim,T08,M08,2025-07-20,Day,,Minor,,,28.7,SupplierA,L2681,Inspector_G,0.3
+D10124,P004,Center Console Trim,T09,M02,2025-07-23,Day,,Major,,,30.4,SupplierC,L1744,Inspector_D,2.33
+D10068,P003,Instrument Panel Trim,T05,M01,2025-07-06,Night,,Major,,,26.1,SupplierD,L2680,Inspector_A,0.82
+D10450,P006,B-Pillar Trim,T01,M01,2025-08-26,Swing,,Minor,,,31.0,SupplierC,L4066,Inspector_I,0.33
